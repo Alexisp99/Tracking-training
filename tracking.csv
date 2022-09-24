@@ -1,0 +1,262 @@
+Workout,Exercise,Weight,Repetitions,Rest,Date
+
+0,Push,dumbbel press 10,24,10,90,22/09/12
+
+1,Push,dumbbel press 10,24,10,90,22/09/12
+
+2,Push,dumbbel press 10,24,10,90,22/09/12
+
+0,Push,chest press unilateral,30,10,90,22/09/12
+
+1,Push,chest press unilateral,30,10,90,22/09/12
+
+2,Push,chest press unilateral,30,10,90,22/09/12
+
+0,Push,cable flyes,5,10,90,22/09/12
+
+1,Push,cable flyes,5,10,90,22/09/12
+
+2,Push,cable flyes,5,10,90,22/09/12
+
+0,Push,dumbbel press 70,18,10,90,22/09/12
+
+1,Push,dumbbel press 70,18,10,90,22/09/12
+
+2,Push,dumbbel press 70,18,10,90,22/09/12
+
+0,Push,lateral raise,5,10,90,22/09/12
+
+1,Push,lateral raise,5,10,90,22/09/12
+
+2,Push,lateral raise,5,10,90,22/09/12
+
+0,Push,v pushdown,20,10,90,22/09/12
+
+1,Push,v pushdown,20,10,90,22/09/12
+
+2,Push,v pushdown,20,10,90,22/09/12
+
+0,Push,rope pushdown,10,10,90,22/09/12
+
+1,Push,rope pushdown,10,10,90,22/09/12
+
+2,Push,rope pushdown,10,10,90,22/09/12
+
+0,Pull,seated row,35,10,90,22/09/13
+
+1,Pull,seated row,35,10,90,22/09/13
+
+2,Pull,seated row,35,10,90,22/09/13
+
+0,Pull,pulldown large,45,10,90,22/09/13
+
+1,Pull,pulldown large,45,10,90,22/09/13
+
+2,Pull,pulldown large,45,10,90,22/09/13
+
+0,Pull,rowing machine,35,10,90,22/09/13
+
+1,Pull,rowing machine,35,10,90,22/09/13
+
+2,Pull,rowing machine,35,10,90,22/09/13
+
+0,Pull,pushdown neutral,45,10,90,22/09/13
+
+1,Pull,pushdown neutral,45,10,90,22/09/13
+
+2,Pull,pushdown neutral,45,10,90,22/09/13
+
+0,Pull,incline curl,7,10,90,22/09/13
+
+1,Pull,incline curl,7,10,90,22/09/13
+
+2,Pull,incline curl,7,10,90,22/09/13
+
+0,Pull,hammer curl,7,10,90,22/09/13
+
+1,Pull,hammer curl,7,10,90,22/09/13
+
+2,Pull,hammer curl,7,10,90,22/09/13
+
+0,Pull,reverse fly,4,10,90,22/09/13
+
+1,Pull,reverse fly,4,10,90,22/09/13
+
+2,Pull,reverse fly,4,10,90,22/09/13
+
+0,Legs,romanian deadlift,70,10,90,22/09/14
+
+1,Legs,romanian deadlift,70,10,90,22/09/14
+
+2,Legs,romanian deadlift,70,10,90,22/09/14
+
+0,Legs,squat,60,10,90,22/09/14
+
+1,Legs,squat,60,10,90,22/09/14
+
+2,Legs,squat,60,10,90,22/09/14
+
+0,Legs,leg curl,20,10,90,22/09/14
+
+1,Legs,leg curl,20,10,90,22/09/14
+
+2,Legs,leg curl,20,10,90,22/09/14
+
+0,Legs,leg extension,30,10,90,22/09/14
+
+1,Legs,leg extension,30,10,90,22/09/14
+
+2,Legs,leg extension,30,10,90,22/09/14
+
+0,Push,dumbbel press 10,26,10,90,22/09/19
+
+1,Push,dumbbel press 10,26,10,90,22/09/19
+
+2,Push,dumbbel press 10,26,10,90,22/09/19
+
+0,Push,chest press unilateral,30,14,90,22/09/19
+
+1,Push,chest press unilateral,30,14,90,22/09/19
+
+2,Push,chest press unilateral,30,14,90,22/09/19
+
+0,Push,cable flyes,5,12,90,22/09/19
+
+1,Push,cable flyes,5,12,90,22/09/19
+
+2,Push,cable flyes,5,12,90,22/09/19
+
+0,Push,dumbbel press 70,18,12,90,22/09/19
+
+1,Push,dumbbel press 70,18,12,90,22/09/19
+
+2,Push,dumbbel press 70,18,12,90,22/09/19
+
+0,Push,lateral raise,6,12,90,22/09/19
+
+1,Push,lateral raise,6,12,90,22/09/19
+
+2,Push,lateral raise,6,12,90,22/09/19
+
+0,Push,v pushdown,20,12,90,22/09/19
+
+1,Push,v pushdown,20,12,90,22/09/19
+
+2,Push,v pushdown,20,12,90,22/09/19
+
+0,Push,rope pushdown,10,12,90,22/09/19
+
+1,Push,rope pushdown,10,12,90,22/09/19
+
+2,Push,rope pushdown,10,12,90,22/09/19
+
+0,Pull,rowing machine,35,12,90,22/09/20
+
+1,Pull,rowing machine,35,12,90,22/09/20
+
+2,Pull,rowing machine,35,12,90,22/09/20
+
+3,Pull,rowing machine,35,12,90,22/09/20
+
+0,Pull,pulldown large,45,10,90,22/09/20
+
+1,Pull,pulldown large,50,10,90,22/09/20
+
+2,Pull,pulldown large,55,10,90,22/09/20
+
+3,Pull,pulldown large,50,10,90,22/09/20
+
+0,Pull,seated row,35,10,90,22/09/20
+
+1,Pull,seated row,35,10,90,22/09/20
+
+2,Pull,seated row,35,10,90,22/09/20
+
+0,Pull,pushdown neutral,45,10,90,22/09/20
+
+1,Pull,pushdown neutral,45,10,90,22/09/20
+
+2,Pull,pushdown neutral,45,10,90,22/09/20
+
+0,Pull,incline curl,9,10,90,22/09/20
+
+1,Pull,incline curl,9,10,90,22/09/20
+
+2,Pull,incline curl,7,10,90,22/09/20
+
+0,Pull,hammer curl,10,10,90,22/09/20
+
+1,Pull,hammer curl,7,10,90,22/09/20
+
+2,Pull,hammer curl,7,10,90,22/09/20
+
+0,Pull,reverse fly,4,12,90,22/09/20
+
+1,Pull,reverse fly,4,12,90,22/09/20
+
+2,Pull,reverse fly,4,12,90,22/09/20
+
+0,Legs,romanian deadlift,70,10,90,22/09/21
+
+1,Legs,romanian deadlift,70,10,90,22/09/21
+
+2,Legs,romanian deadlift,70,10,90,22/09/21
+
+0,Legs,squat,60,10,90,22/09/21
+
+1,Legs,squat,70,10,120,22/09/21
+
+2,Legs,squat,70,10,120,22/09/21
+
+3,Legs,squat,70,10,120,22/09/21
+
+0,Legs,leg curl,20,14,90,22/09/21
+
+1,Legs,leg curl,20,14,90,22/09/21
+
+2,Legs,leg curl,20,14,90,22/09/21
+
+0,Legs,leg extension,40,10,90,22/09/21
+
+1,Legs,leg extension,40,10,90,22/09/21
+
+2,Legs,leg extension,40,10,90,22/09/21
+
+0,Push,dumbbel press 10,28,10,120,22/09/23
+
+1,Push,dumbbel press 10,28,8,120,22/09/23
+
+2,Push,dumbbel press 10,24,8,120,22/09/23
+
+3,Push,dumbbel press 10,24,8,120,22/09/23
+
+0,Push,dumbbel press 70,20,10,120,22/09/23
+
+1,Push,dumbbel press 70,20,10,120,22/09/23
+
+2,Push,dumbbel press 70,18,10,120,22/09/23
+
+0,Push,chest press unilateral,35,12,90,22/09/23
+
+1,Push,chest press unilateral,35,12,90,22/09/23
+
+2,Push,chest press unilateral,25,15,90,22/09/23
+
+0,Push,lateral raise,6,16,90,22/09/23
+
+1,Push,lateral raise,6,16,90,22/09/23
+
+2,Push,lateral raise,6,14,90,22/09/23
+
+0,Push,cable flyes,10,12,90,22/09/23
+
+1,Push,cable flyes,10,12,90,22/09/23
+
+2,Push,cable flyes,10,12,90,22/09/23
+
+0,Push,v pushdown,20,15,90,22/09/23
+
+1,Push,v pushdown,22,14,90,22/09/23
+
+2,Push,v pushdown,22,10,90,22/09/23
+
