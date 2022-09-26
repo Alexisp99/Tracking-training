@@ -16,7 +16,7 @@ df_tracking = pd.read_csv("tracking.csv")
 def input_form(col1,col2):  
     dates = col1.date_input("Date").strftime("%y/%m/%d")
     training = col2.selectbox("Training",("Push", "Pull", "Legs"))
-    exo = col1.selectbox("Exercise",(all_exercise[training]))
+    exo = col1.selectbox("Exercise",(all_exercise[training].dropna()))
     series = col2.number_input("Series", value=3)     
     
     return dates,training,exo,series
@@ -43,7 +43,7 @@ def form(dates,training,exo,series,col11,col22,col33):
     keys = []
     for i in range(int(series)):
         
-        weights = col11.number_input("", min_value=1, key=keys, on_change=change)
+        weights = col11.number_input("", min_value=1,key=keys, on_change=change)
         datas["Weight"].append(round(weights))
         keys.append(1)
         repetitions = col22.number_input("", min_value=1, key=keys,on_change= change)
@@ -135,8 +135,8 @@ def track_chart(pos):
     scatter_chart = go.Figure()
     for exercise in exercises:
         scatter_chart.add_trace(go.Scatter(
-            x = df_tracking.query(f"Exercise == '{exercise}'")["Date"],
-            y = df_tracking.query(f"Exercise == '{exercise}'")["Weight"] ,
+            x = df_tracking.loc[df_tracking["Exercise"]== exercise, "Date"],
+            y = df_tracking.loc[df_tracking["Exercise"]== exercise, "Weight"],
             mode = "lines",
             name = exercise,
             legendgroup=1,
@@ -211,11 +211,4 @@ with dataset:
         col1.dataframe(df_tracking)
         col2.header("Data of the day")
         col2.dataframe(dates)
-        
-    
-  
-
-
-
-
 
